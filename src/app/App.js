@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import WeatherForm from './components/CoronaForm';
 import WeatherInfo from './components/CoronaInfo';
 import Nav from "./components/Nav";
+import Code from './components/Code';
 
 
 class App extends Component {
@@ -67,7 +68,7 @@ class App extends Component {
         return (
             <>
 
-                        <Nav />
+            <Nav />
 
             <div className="row">
                 <div className="col-md-10 mx-auto">
@@ -75,6 +76,7 @@ class App extends Component {
                         getWeather={this.getWeather}
                     />
                     <WeatherInfo {...this.state} />
+                    <Code />
                 </div>
             </div>
             </>

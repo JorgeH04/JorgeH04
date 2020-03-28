@@ -7,10 +7,10 @@ const WeatherForm = props => (
   <form onSubmit={props.getWeather}>
               
               <div className="form-group ">
-                  <input type="text" name="country" placeholder="Digite el país" className="form-control" />
+                  <input type="text" name="country" placeholder="Digite el código del país" className="form-control" />
               </div>
               <button className="btn btn-success btn-block">
-                  Get country
+                  GET COUNTRY
               </button>
           </form>
   
