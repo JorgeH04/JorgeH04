@@ -65,8 +65,8 @@ class App extends Component {
 
     render() {
         return (
+            <>
 
-        <div className="container p-4">
                         <Nav />
 
             <div className="row">
@@ -77,7 +77,7 @@ class App extends Component {
                     <WeatherInfo {...this.state} />
                 </div>
             </div>
-        </div>
+            </>
         )
     }
 }
