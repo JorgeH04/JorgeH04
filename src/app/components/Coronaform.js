@@ -2,7 +2,7 @@ import React from 'react';
 
 const WeatherForm = props => (
 
-  <div className="card card-body mt-5">
+  <div className="cardd card-body mt-5" >
 
   <form onSubmit={props.getWeather}>
               
