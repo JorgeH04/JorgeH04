@@ -7,17 +7,17 @@ const WeatherInfo = props => {
            
             {
                 <div className="card card-body mt-2 animated fadeInUp" >
-                                        <h2>País consultado: {props.country}</h2>
+                                        <h1>País consultado: {props.country}</h1>
 
                     {
                         
-                        <p><i className="fas fa-location-arrow"></i> Casos confirmados: {props.confirmed}</p>
+                        <h1><i className="fas fa-location-arrow"></i> Casos confirmados: {props.confirmed}</h1>
                     }
                     {
-                        <p><i className="fas fa-temperature-low"></i> Personas recuperadas: {props.recovered}</p>
+                        <h1><i className="fas fa-temperature-low"></i> Personas recuperadas: {props.recovered}</h1>
                     }
                     {
-                        <p><i className="fas fa-water"></i> Muertos: {props.deaths}</p>
+                        <h1><i className="fas fa-water"></i> Muertos: {props.deaths}</h1>
                     }
                    
                 </div>
