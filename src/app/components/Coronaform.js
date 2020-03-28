@@ -12,7 +12,7 @@ const WeatherForm = props => (
                   <input type="text" name="country" placeholder="Digite el código del país" className="form-control" />
               </div>
               <button className="btn btn-success btn-block">
-                  Obtener País
+                  OBTENER PAÍS
               </button>
           </form>
   
