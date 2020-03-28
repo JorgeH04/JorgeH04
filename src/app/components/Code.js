@@ -81,65 +81,69 @@ const Code = props => (
 <p>MA	Marruecos	 	  		</p>
 <p>MC	Mónaco			</p>
 <p>MT	Malta			</p>
-<h4>MY	Malasia			</h4>
+<h4>MX	México			</h4>
+<p>MZ	Mozambique			</p>
+<p>NA	Namibia				</p>
+<p>NG	Nigeria				</p>
+<p>NI	Nicaragua			</p>
+<h4>NL	HOLANDA			</h4>
+<p>NP	Nepal	</p>
+<h4>	NO	Noruega		</h4>
+<p>OM	Omán	</p>
+<h4>NZ	Nueva Zelanda	</h4>
+<p>PA	Panamá		</p>
+<h4>PE	Perú		</h4>
+<p>PH	Filipinas	</p>
+<p>PK	Pakistán	</p>
+<h4>PL	Polonia	</h4>
+<p>PR	Puerto Rico	</p>
+<p>PS	Palestina		</p>
+<p>QA	Qatar	</p>
+<h4>PT	Portugal	</h4>
+<p>RO	Rumanía		</p>
+<h4>PY	Paraguay	</h4>
+<p>RS	Serbia y Montenegro			</p>
+<h4>RU	Rusia	</h4>
+<p>RW	Ruanda	</p>
+<p>SA	Arabia Saudita	</p>
+<p>SD	Sudána	</p>
+<h4>SE	Suecia	</h4>
+<p>SG	Singapur	</p>
+<p>SI	Eslovenia		</p>
+<p>SK	Eslovaquia	</p>
+<p>SM	San Marino	</p>
+<p>SN	Senegal	 	</p>
+<p>SM	San Marino	</p>
+<p>SO	Somalia	 	</p>
+<p>SR	Surinam	 	</p>
+<p>SO	Somalia	 	</p>
+<p>SV	El Salvador 	</p>
+<p>SY	Siria 	</p>
+<p>TD	Chad 	</p>
+<h4>TH	Tailandia 	</h4>
+<p>TH	Tanzania	</p>
+<h4>TR	Turquía 	</h4>
+<p>TT	Trinidad y Tobago  	</p>
+<p>TW	Taiwán	 	</p>
+<p>UA	Ucrania	 	</p>
+<p>UG	Uganda	 	</p>
+<h4>US	Estados Unidos de América </h4>	 
+<p>UZ	Uzbekistán	 </p>
+<h4>UY	Uruguay</h4>
+<p>VN	Vietnam	 </p>	 
+<h4>VE	Venezuela </h4>	 
+ <p>WS	Samoa</p>
+<p>YE	Yemen </p>	 
+<h4>ZA	Sudáfrica	 </h4>	 
 
-	
+
+
+ 
+
+ 
+
+
 	 
-MX	México	
-MZ	Mozambique	
-NA	Namibia	
-NE	Níger	
-NG	Nigeria	
-NI	Nicaragua	
-NL	Países Bajos	
-NO	Noruega	
-NP	Nepal	
-NZ	Nueva Zelanda	
-OM	Omán	
-PA	Panamá	
-PE	Perú	
-PH	Filipinas	
-PK	Pakistán	
-PL	Polonia	
-PR	Puerto Rico	
-PS	Palestina	
-PT	Portugal	
-PW	Islas Palaos	
-PY	Paraguay	
-QA	Qatar	
-RO	Rumanía	
-RS	Serbia y Montenegro	
-RU	Rusia	
-RW	Ruanda	
-SA	Arabia Saudita	
-SC	Seychelles
-SD	Sudán	
-SE	Suecia	
-SG	Singapur	
-SI	Eslovenia	 
-SK	Eslovaquia	 
-SM	San Marino	 
-SN	Senegal	 
-SO	Somalia	 
-SR	Surinam	 
-SV	El Salvador	 
-SY	Siria	 
-TD	Chad 
-TH	Tailandia	 
-TH	Tanzania	 
-TR	Turquía 
-TT	Trinidad y Tobago 
-TW	Taiwán	 
-UA	Ucrania	 
-UG	Uganda	 
-US	Estados Unidos de América 
-UY	Uruguay 
-UZ	Uzbekistán	 
-VE	Venezuela 
-VN	Vietnam	 
-WS	Samoa	 
-YE	Yemen 
-ZA	Sudáfrica	 
 
   
   </p>

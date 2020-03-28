@@ -7,7 +7,7 @@ export default class Nav extends Component {
                 <div className="container">
                     <div className="navbar-brand" to="/">
                         <i className="material-icons">
-                            Jor H </i> Coronavirus App
+                            Jor H </i> || Coronavirus App
                     </div>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
