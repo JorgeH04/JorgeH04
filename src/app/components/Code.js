@@ -11,7 +11,7 @@ const Code = props => (
 <p>AL	Albania		</p>
 <p>AM	Armenia		</p>
 <p>AO	Angola	</p>
-<h6>AR	Argentina	</h6>
+<h4>AR	Argentina	</h4>
 <p>AT	Austria		</p>
 <p>AU	Australia	</p>
 <p>AW	Aruba	</p>
@@ -20,111 +20,72 @@ const Code = props => (
 <p>BG	Bulgaria	</p>
 <p>BI	Burundi	</p>
 <p>BM	Bermudas	</p>
-<p>BO	Bolivia	</p>
-
-<p>BR	Brasil</p>
+<h4>BO	Bolivia	</h4>
 <p>BS	Bahamas</p>
+<h4>BR	Brasil</h4>
 <p>BZ	Belice</p>
 <p>CA	Canadá	</p>
 <p>CG	Congo	</p>
+<h4>CH	Suiza</h4>	
+<p>CI	Costa de Marfil	</p>
+<h4>CL	Chile	</h4>	
+<p>CM	Camerún	</p>
+<h4>CN	China</h4>	
+<p>CR	Costa Rica</p>
+<h4>CO	Colombia</h4>	
+<p>CU	Cuba</p>
+<p>CZ	República Checa	</p>
+<h4>DE	Alemania</h4>
+<p>DK	Dinamarca	</p>
+<p>DM	Domínica</p>
+<p>DO	República Dominicana</p>
+<p>DZ	Argel	</p>
+<h4>EC	Ecuador	</h4>
+<p>EE	Estonia	</p>
+<p>EG	Egipto	</p>
+<p>ET	Etiopía	</p>
+<p>FI	Finlandia	</p>
+<h4>ES	España	</h4>
+<p>GH	Ghana	</p>
+<h4>FR	Francia		</h4>
+<p>GL	Groenlandia	</p>
+<h4>GB	Reino Unido	</h4>
+<p>GT	Guatemala	</p>
+<h4>GR	Grecia	</h4>	
+<p>HN	Honduras	</p>
+<h4>HK	Hong Kong	</h4>	
+<p>HR	Croacia	</p>	
+<p>HT	Haití	</p>	
+<p>HU	Hungría	</p>	
+<p>ID	Indonesia</p>	
+<p>IE	Irlanda</p>	
+<h4>IL	Israel	</h4>
+<p>IQ	Irak	</p>
+<h4>IN	India	</h4>
+<p>IR	Irán		</p>
+<p>IS	Islandia		</p>
+<h4>IT	Italia		</h4>
+<p>JM	Jamaica			</p>
+<h4>JP	Japón			</h4>
+<p>KE	Kenia		</p>
+<p>KH	Camboya		</p>
+<p>KM	Comoros				</p>
+<p>KP	Corea del Norte		</p>
+<p>KR	Corea del Sur		</p>
+<p>KW	Kuwait		</p>
+<p>LB	Líbano		</p>
+<p>LI	Liechtenstein		</p>
+<p>LK	Sri Lanka		</p>
+<p>LT	Lituania		</p>
+<p>LU	Luxemburgo	 		</p>
+<p>MA	Marruecos	 	  		</p>
+<p>MC	Mónaco			</p>
+<p>MT	Malta			</p>
+<h4>MY	Malasia			</h4>
 
-
 	
-
-	
-	
-
-
-	
-
-	
-	
-	
-
-	
-CH	Suiza	
-CI	Costa de Marfil	
-CL	Chile	
-CM	Camerún	
-CN	China	
-CO	Colombia	
-CR	Costa Rica	
-CU	Cuba	
-CY	Chipre	
-CZ	República Checa	
-DE	Alemania	
-DK	Dinamarca	
-DM	Domínica	
-DO	República Dominicana	
-DZ	Argel	
-EC	Ecuador	
-EE	Estonia	
-EG	Egipto	
-ES	España	
-ET	Etiopía	
-FI	Finlandia	
-FJ	Fiji	
-FM	Micronesia
-FO	Islas Faroe	
-FR	Francia	
-GA	Gabón	
-GB	Reino Unido	
-GD	Granada	
-GE	Georgia	
-GF	Guayana Francesa
-GH	Ghana	
-GI	Gibraltar	
-GL	Groenlandia	
-GP	Guadalupe	
-GR	Grecia	
-GS	Georgia del Sur e Islas Sandwich del Sur	
-GT	Guatemala	
-GU	Guam	
-GY	Guayana	
-HK	Hong Kong	
-HM	Islas Heard y McDonald	
-HN	Honduras	
-HR	Croacia	
-HT	Haití	
-HU	Hungría	
-ID	Indonesia	
-IE	Irlanda	
-IL	Israel	
-IM	Isla de Man	
-IN	India	
-IQ	Irak	
-IR	Irán	
-IS	Islandia	
-IT	Italia	
-JM	Jamaica	
-JO	Jordania	
-JP	Japón	
-KE	Kenia	
-KH	Camboya
-KM	Comoros	
-KP	Corea del Norte
-KR	Corea del Sur	
-KW	Kuwait	
-KY	Islas Caimán	
-KZ	Kazajstán	
-LB	Líbano	
-LI	Liechtenstein	
-LK	Sri Lanka	
-LT	Lituania	 
-LU	Luxemburgo	 
-LV	Letonia	 
-LY	Libia	 
-MA	Marruecos	 
-MC	Mónaco	
-MD	Moldova	 
-ME	Montenegro	
-MG	Madagascar	
-MK	Macedonia	
-ML	Mali	
-MN	Mongolia	
-MT	Malta	
+	 
 MX	México	
-MY	Malasia	
 MZ	Mozambique	
 NA	Namibia	
 NE	Níger	
@@ -155,7 +116,6 @@ SC	Seychelles
 SD	Sudán	
 SE	Suecia	
 SG	Singapur	
-SH	Santa Elena	 
 SI	Eslovenia	 
 SK	Eslovaquia	 
 SM	San Marino	 
@@ -175,7 +135,6 @@ UG	Uganda
 US	Estados Unidos de América 
 UY	Uruguay 
 UZ	Uzbekistán	 
-VA	Ciudad del Vaticano	 
 VE	Venezuela 
 VN	Vietnam	 
 WS	Samoa	 
