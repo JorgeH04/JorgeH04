@@ -17,11 +17,11 @@ const Code = props => (
 <p>AF	Afganistán	</p>
 <p>AL	Albania		</p>
 <p>AM	Armenia		</p>
-<p>AO	Angola	</p>
 <h4>AR	Argentina	</h4>
-<p>AT	Austria		</p>
-<p>AU	Australia	</p>
+<p>AO	Angola	</p>
+<h4>AU	Australia	</h4>
 <p>AW	Aruba	</p>
+<h4>AT	Austria		</h4>
 <p>AZ	Azerbaiyán	</p>
 <p>BE	Bélgica	</p>
 <p>BG	Bulgaria	</p>
@@ -31,16 +31,16 @@ const Code = props => (
 <p>BS	Bahamas</p>
 <h4>BR	Brasil</h4>
 <p>BZ	Belice</p>
-<p>CA	Canadá	</p>
+<h4>CA	Canadá	</h4>
 <p>CG	Congo	</p>
 <h4>CH	Suiza</h4>	
 <p>CI	Costa de Marfil	</p>
 <h4>CL	Chile	</h4>	
 <p>CM	Camerún	</p>
+<h4>CU	Cuba</h4>
 <h4>CN	China</h4>	
 <p>CR	Costa Rica</p>
 <h4>CO	Colombia</h4>	
-<p>CU	Cuba</p>
 <p>CZ	República Checa	</p>
 <h4>DE	Alemania</h4>
 <p>DK	Dinamarca	</p>
@@ -63,9 +63,9 @@ const Code = props => (
 <h4>HK	Hong Kong	</h4>	
 <p>HR	Croacia	</p>	
 <p>HT	Haití	</p>	
-<p>HU	Hungría	</p>	
+<p>HU	Hungría	</p>
+<h4>IE	Irlanda</h4>	
 <p>ID	Indonesia</p>	
-<p>IE	Irlanda</p>	
 <h4>IL	Israel	</h4>
 <p>IQ	Irak	</p>
 <h4>IN	India	</h4>
@@ -77,8 +77,8 @@ const Code = props => (
 <p>KE	Kenia		</p>
 <p>KH	Camboya		</p>
 <p>KM	Comoros				</p>
-<p>KP	Corea del Norte		</p>
-<p>KR	Corea del Sur		</p>
+<h4>KP	Corea del Norte		</h4>
+<h4>KR	Corea del Sur		</h4>
 <p>KW	Kuwait		</p>
 <p>LB	Líbano		</p>
 <p>LI	Liechtenstein		</p>
