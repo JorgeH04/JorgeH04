@@ -6,7 +6,7 @@ const WeatherInfo = props => {
         <div>
            
             {
-                <div className="card card-body mt-2 animated fadeInUp" >
+                <div className="card card-body mt-2 animated fadeInUp mt-5" >
                                         <h1>País consultado: {props.country}</h1>
 
                     {
