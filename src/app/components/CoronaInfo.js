@@ -11,13 +11,13 @@ const WeatherInfo = props => {
 
                     {
                         
-                        <h1><i className="fas fa-location-arrow"></i> Casos confirmados: {props.confirmed}</h1>
+                        <h1 className="mt-5"><i className="fas fa-location-arrow"></i> Casos confirmados: {props.confirmed}</h1>
                     }
                     {
-                        <h1><i className="fas fa-temperature-low"></i> Personas recuperadas: {props.recovered}</h1>
+                        <h1 className="mt-5"><i className="fas fa-temperature-low"></i> Personas recuperadas: {props.recovered}</h1>
                     }
                     {
-                        <h1><i className="fas fa-water"></i> Muertos: {props.deaths}</h1>
+                        <h1 className="mt-5"><i className="fas fa-water"></i> Muertos: {props.deaths}</h1>
                     }
                    
                 </div>
